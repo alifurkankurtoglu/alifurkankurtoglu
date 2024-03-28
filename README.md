@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: The lights are on, but nobody’s home
   
--![php-logo](https://github.com/alifurkankurtoglu/alifurkankurtoglu/assets/98460384/c13dae4e-f512-456f-b353-876e89783472)
--![html5](https://github.com/alifurkankurtoglu/alifurkankurtoglu/assets/98460384/76057842-dfdd-49b7-a08a-240a0f6d2b59)
+![php-logo](https://github.com/alifurkankurtoglu/alifurkankurtoglu/assets/98460384/c13dae4e-f512-456f-b353-876e89783472) / ![html5](https://github.com/alifurkankurtoglu/alifurkankurtoglu/assets/98460384/76057842-dfdd-49b7-a08a-240a0f6d2b59)
